@@ -55,7 +55,7 @@
 
 
 
-![image-20240904035844359](.\aiga-backend\image\image-20240904035844359.png)
+![image-20240904035844359](./aiga-backend/image/image-20240904035844359.png)
 
 
 
