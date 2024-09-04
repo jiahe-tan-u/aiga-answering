@@ -55,7 +55,7 @@
 
 
 
-![image-20240904035844359](C:\Users\14378\AppData\Roaming\Typora\typora-user-images\image-20240904035844359.png)
+![image-20240904035844359](.\aiga-backend\image\image-20240904035844359.png)
 
 
 
@@ -110,7 +110,7 @@
 
 ## 架构设计
 
-![image-20240904044210609](C:\Users\14378\AppData\Roaming\Typora\typora-user-images\image-20240904044210609.png)
+![image-20240904044210609](.\aiga-backend\image\image-20240904044210609.png)
 
 
 
