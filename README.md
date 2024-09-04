@@ -110,7 +110,7 @@
 
 ## 架构设计
 
-![image-20240904044210609](.\aiga-backend\image\image-20240904044210609.png)
+![image-20240904044210609](https://tcode-1318171279.cos.ap-guangzhou.myqcloud.com/github_picture%2Fimage-20240904044210609.png)
 
 
 
