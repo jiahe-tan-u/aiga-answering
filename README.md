@@ -55,7 +55,7 @@
 
 
 
-![image-20240904035844359](https://github.com/jiahe-tan-u/aiga-answering/tree/master/aiga-backend/image/image-20240904035844359.png)
+![image-20240904035844359](https://tcode-1318171279.cos.ap-guangzhou.myqcloud.com/github_picture/image-20240904035844359.png)
 
 
 
