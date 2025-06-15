@@ -43,7 +43,7 @@
 - Redission 分布式锁
 - Caffeine 本地缓存
 - 基于 ChatGLM 大模型实现 AI 能力
-- RxJava 响应式框架 + 多线程 / 线程池实战 
+- RxJava 响应式框架 + 多线程 / 线程池 
 - Shardingsphere 分库分表 + 分布式 ID 雪花算法
 - SSE 服务端推送
 - 多种设计模式
