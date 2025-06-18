@@ -113,5 +113,30 @@
 
 ![image-20240904044210609](https://tcode-1318171279.cos.ap-guangzhou.myqcloud.com/github_picture%2Fimage-20240904044210609.png)
 
+## 项目展示
+
+主页：
+
+![image-20240902214451260](https://tcode-1318171279.cos.ap-guangzhou.myqcloud.com/aiga%2Fzhuye.png)
+
+答题应用创建页：
+
+![image-20240902214557660](https://tcode-1318171279.cos.ap-guangzhou.myqcloud.com/aiga%2Fchuangjian.png)
+
+设置题目页：
+
+![image-20240902214928476](https://tcode-1318171279.cos.ap-guangzhou.myqcloud.com/aiga%2Fshezhitimu.png)
+
+应用题目详情页：
+
+![image-20240902214928476](https://tcode-1318171279.cos.ap-guangzhou.myqcloud.com/aiga%2Fxiangqing.png)
+
+答题页：
+
+![image-20240902215051516](https://tcode-1318171279.cos.ap-guangzhou.myqcloud.com/aiga%2Fdati.png)
+
+答题结果页：
+
+![image-20240902215228608](https://tcode-1318171279.cos.ap-guangzhou.myqcloud.com/aiga%2Fjieguo.png)
 
 
